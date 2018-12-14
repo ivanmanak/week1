@@ -181,9 +181,6 @@ article .desc-img {
     color: red;
 } 
 
-/* .buttons .btn1 button,  {
-    padding: 2px 40px 2px 40px;
-}  */
 
 .buttons .btn1 button {
     padding-left: 10px;
@@ -213,17 +210,11 @@ article .desc-img {
 
 /* ARTICLE SUBHEADER IMAGES */ 
 
-.article-images .figure1, .article-images .figure2, .article-images .figure3, .article-images .figure4 {
-    width: 25%;
+.figure1 {
     float: left;
-    position: relative;
-    padding: 30px;
-    /* border: 1px solid black; */
-}
-
-figure {
-   width: 100%;
-   margin-left: -10px;
+    width: 25%;
+    padding: 2%;
+    margin: 10px 0px;
 }
 
 figcaption {
